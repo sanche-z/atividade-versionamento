@@ -2,5 +2,6 @@
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
 <H1> VERSIONAMENTO GIT </H1>
+<P> Alteraação realizada no repositório remoto </p> 
 </BODY>
 </HTML>
